@@ -47,17 +47,14 @@
   margin-bottom: 0;
 }
 
-.u-section-2 .u-layout-cell-1 {
-  min-height: 400px;
-}
-
 .u-section-2 .u-image-1 {
+  min-height: 400px;
   background-image: url("images/penup_20220602_173603.jpg");
-  background-position: 50% 85.83%;
+  background-position: 50% 88.68%;
 }
 
 .u-section-2 .u-container-layout-1 {
-  padding: 30px 60px;
+  padding: 12px 60px;
 }
 
 .u-section-2 .u-layout-cell-2 {
@@ -89,7 +86,7 @@
     min-height: 570px;
   }
 
-  .u-section-2 .u-layout-cell-1 {
+  .u-section-2 .u-image-1 {
     min-height: 330px;
     background-position: 50% 50%;
   }
@@ -109,7 +106,7 @@
     min-height: 437px;
   }
 
-  .u-section-2 .u-layout-cell-1 {
+  .u-section-2 .u-image-1 {
     min-height: 253px;
   }
 
@@ -133,7 +130,7 @@
     min-height: 328px;
   }
 
-  .u-section-2 .u-layout-cell-1 {
+  .u-section-2 .u-image-1 {
     min-height: 380px;
   }
 
@@ -153,7 +150,7 @@
     min-height: 207px;
   }
 
-  .u-section-2 .u-layout-cell-1 {
+  .u-section-2 .u-image-1 {
     min-height: 239px;
   }
 
